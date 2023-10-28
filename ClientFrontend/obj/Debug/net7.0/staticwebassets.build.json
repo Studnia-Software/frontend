@@ -1,6 +1,14 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "yNZEIwWbphOTdDjZ41/seJn6CGp0iFs2gsyGRuC9dEs=",
+=======
+<<<<<<< HEAD
+  "Hash": "sWnKw4tQv5KbYcEmOjdkjXFNr2qrhfMmwLWVjdZvicE=",
+=======
+  "Hash": "zcKU8x63QW7pt6pK8E7WVZRGfOfQ792wqR1PiTWOyiY=",
+>>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
+>>>>>>> main
   "Source": "ClientFrontend",
   "BasePath": "_content/ClientFrontend",
   "Mode": "Default",
@@ -119,7 +127,12 @@
       "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClientFrontend.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
+>>>>>>> main
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -255,7 +268,14 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
+=======
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
+=======
+      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
+>>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
+>>>>>>> main
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -272,7 +292,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.css",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.css",
+>>>>>>> main
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -306,7 +331,14 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
+=======
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
+=======
+      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
+>>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
+>>>>>>> main
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -323,7 +355,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\.DS_Store",
+=======
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\.DS_Store",
+>>>>>>> main
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -646,7 +683,14 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
+>>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
+>>>>>>> main
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
