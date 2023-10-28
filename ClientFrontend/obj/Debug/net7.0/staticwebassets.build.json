@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "Vr34hoMNy2+Z9lxyUKvC7MTpeaPlVaq8t8JN/lBnx3k=",
-=======
-  "Hash": "yNZEIwWbphOTdDjZ41/seJn6CGp0iFs2gsyGRuC9dEs=",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
+  "Hash": "GrKlMpijD63N5lziFCCU/UYKOscLD+T39pgdnaku7sw=",
   "Source": "ClientFrontend",
   "BasePath": "_content/ClientFrontend",
   "Mode": "Default",
@@ -123,14 +119,10 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClientFrontend.bundle.scp.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -144,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -161,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -178,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap\\_media.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap\\_media.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/bootstrap/_media.css",
       "AssetKind": "All",
@@ -195,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\_media.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap\\mixins\\_box-shadow.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap\\mixins\\_box-shadow.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/bootstrap/mixins/_box-shadow.css",
       "AssetKind": "All",
@@ -212,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\mixins\\_box-shadow.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap\\mixins\\_reset-text.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\bootstrap\\mixins\\_reset-text.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/bootstrap/mixins/_reset-text.css",
       "AssetKind": "All",
@@ -229,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\for_index.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\for_index.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/for_index.css",
       "AssetKind": "All",
@@ -246,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\for_index.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -263,11 +255,7 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -284,14 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.css",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.css",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -305,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -322,11 +306,7 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -343,14 +323,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\.DS_Store",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\.DS_Store",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/.DS_Store",
       "AssetKind": "All",
@@ -364,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/demo-files/demo.css",
       "AssetKind": "All",
@@ -381,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\demo-files\\demo.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/demo-files/demo.js",
       "AssetKind": "All",
@@ -398,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\demo-files\\demo.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\demo.html",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\demo.html",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/demo.html",
       "AssetKind": "All",
@@ -415,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\demo.html"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/fonts/icomoon.eot",
       "AssetKind": "All",
@@ -432,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/fonts/icomoon.svg",
       "AssetKind": "All",
@@ -449,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/fonts/icomoon.ttf",
       "AssetKind": "All",
@@ -466,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/fonts/icomoon.woff",
       "AssetKind": "All",
@@ -483,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\Read Me.txt",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/Read Me.txt",
       "AssetKind": "All",
@@ -500,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\Read Me.txt"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\selection.json",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\selection.json",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/selection.json",
       "AssetKind": "All",
@@ -517,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\selection.json"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\style.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\icomoon\\style.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "fonts/icomoon/style.css",
       "AssetKind": "All",
@@ -534,7 +510,6 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\style.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\czas.png",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
@@ -550,23 +525,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\IMG\\czas.png"
-    },
-    {
-      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png",
-      "SourceId": "ClientFrontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
-      "BasePath": "_content/ClientFrontend",
-      "RelativePath": "IMG/DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\IMG\\DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png"
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\dostawa.png",
@@ -655,12 +613,9 @@
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo_landspace.png",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo_landspace.png",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "IMG/logo_landspace.png",
       "AssetKind": "All",
@@ -674,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\IMG\\logo_landspace.png"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo.png",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo.png",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "IMG/logo.png",
       "AssetKind": "All",
@@ -691,7 +646,6 @@
       "OriginalItemSpec": "wwwroot\\IMG\\logo.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt1.png",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
@@ -710,12 +664,9 @@
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\bootstrap.min.js",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\bootstrap.min.js",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -729,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -746,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\jquery.sticky.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\jquery.sticky.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/jquery.sticky.js",
       "AssetKind": "All",
@@ -763,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.sticky.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\main.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -780,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -797,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\popper.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -814,11 +765,7 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
->>>>>>> d8397bad028d798e96238f812b4c2b0374b6c218
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
@@ -1804,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\.DS_Store",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\.DS_Store",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/.DS_Store",
       "AssetKind": "All",
@@ -1821,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_alert.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_alert.scss",
       "AssetKind": "All",
@@ -1838,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_badge.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_badge.scss",
       "AssetKind": "All",
@@ -1855,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_breadcrumb.scss",
       "AssetKind": "All",
@@ -1872,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_button-group.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_button-group.scss",
       "AssetKind": "All",
@@ -1889,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_buttons.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_buttons.scss",
       "AssetKind": "All",
@@ -1906,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_card.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_card.scss",
       "AssetKind": "All",
@@ -1923,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_carousel.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_carousel.scss",
       "AssetKind": "All",
@@ -1940,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_close.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_close.scss",
       "AssetKind": "All",
@@ -1957,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_code.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_code.scss",
       "AssetKind": "All",
@@ -1974,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_custom-forms.scss",
       "AssetKind": "All",
@@ -1991,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_dropdown.scss",
       "AssetKind": "All",
@@ -2008,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_forms.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_forms.scss",
       "AssetKind": "All",
@@ -2025,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_functions.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_functions.scss",
       "AssetKind": "All",
@@ -2042,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_grid.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_grid.scss",
       "AssetKind": "All",
@@ -2059,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_images.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_images.scss",
       "AssetKind": "All",
@@ -2076,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_input-group.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_input-group.scss",
       "AssetKind": "All",
@@ -2093,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_jumbotron.scss",
       "AssetKind": "All",
@@ -2110,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_list-group.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_list-group.scss",
       "AssetKind": "All",
@@ -2127,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_media.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_media.scss",
       "AssetKind": "All",
@@ -2144,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_mixins.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_mixins.scss",
       "AssetKind": "All",
@@ -2161,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_modal.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_modal.scss",
       "AssetKind": "All",
@@ -2178,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_nav.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_nav.scss",
       "AssetKind": "All",
@@ -2195,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_navbar.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_navbar.scss",
       "AssetKind": "All",
@@ -2212,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_pagination.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_pagination.scss",
       "AssetKind": "All",
@@ -2229,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_popover.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_popover.scss",
       "AssetKind": "All",
@@ -2246,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_print.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_print.scss",
       "AssetKind": "All",
@@ -2263,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_progress.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_progress.scss",
       "AssetKind": "All",
@@ -2280,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_reboot.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_reboot.scss",
       "AssetKind": "All",
@@ -2297,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_root.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_root.scss",
       "AssetKind": "All",
@@ -2314,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_spinners.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_spinners.scss",
       "AssetKind": "All",
@@ -2331,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_tables.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_tables.scss",
       "AssetKind": "All",
@@ -2348,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_toasts.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_toasts.scss",
       "AssetKind": "All",
@@ -2365,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_tooltip.scss",
       "AssetKind": "All",
@@ -2382,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_transitions.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_transitions.scss",
       "AssetKind": "All",
@@ -2399,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_type.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_type.scss",
       "AssetKind": "All",
@@ -2416,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_utilities.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_utilities.scss",
       "AssetKind": "All",
@@ -2433,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\_variables.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/_variables.scss",
       "AssetKind": "All",
@@ -2450,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -2467,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -2484,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/bootstrap.scss",
       "AssetKind": "All",
@@ -2501,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_alert.scss",
       "AssetKind": "All",
@@ -2518,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_background-variant.scss",
       "AssetKind": "All",
@@ -2535,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_badge.scss",
       "AssetKind": "All",
@@ -2552,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -2569,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -2586,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -2603,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2620,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_caret.scss",
       "AssetKind": "All",
@@ -2637,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -2654,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -2671,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_float.scss",
       "AssetKind": "All",
@@ -2688,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_forms.scss",
       "AssetKind": "All",
@@ -2705,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -2722,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_grid-framework.scss",
       "AssetKind": "All",
@@ -2739,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_grid.scss",
       "AssetKind": "All",
@@ -2756,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_hover.scss",
       "AssetKind": "All",
@@ -2773,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_image.scss",
       "AssetKind": "All",
@@ -2790,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -2807,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_lists.scss",
       "AssetKind": "All",
@@ -2824,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_nav-divider.scss",
       "AssetKind": "All",
@@ -2841,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2858,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -2875,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_resize.scss",
       "AssetKind": "All",
@@ -2892,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_screen-reader.scss",
       "AssetKind": "All",
@@ -2909,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_size.scss",
       "AssetKind": "All",
@@ -2926,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_table-row.scss",
       "AssetKind": "All",
@@ -2943,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_text-emphasis.scss",
       "AssetKind": "All",
@@ -2960,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_text-hide.scss",
       "AssetKind": "All",
@@ -2977,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -2994,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_transition.scss",
       "AssetKind": "All",
@@ -3011,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/mixins/_visibility.scss",
       "AssetKind": "All",
@@ -3028,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_align.scss",
       "AssetKind": "All",
@@ -3045,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_background.scss",
       "AssetKind": "All",
@@ -3062,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_borders.scss",
       "AssetKind": "All",
@@ -3079,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_clearfix.scss",
       "AssetKind": "All",
@@ -3096,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_display.scss",
       "AssetKind": "All",
@@ -3113,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_embed.scss",
       "AssetKind": "All",
@@ -3130,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_flex.scss",
       "AssetKind": "All",
@@ -3147,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_float.scss",
       "AssetKind": "All",
@@ -3164,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_overflow.scss",
       "AssetKind": "All",
@@ -3181,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_position.scss",
       "AssetKind": "All",
@@ -3198,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_screenreaders.scss",
       "AssetKind": "All",
@@ -3215,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_shadows.scss",
       "AssetKind": "All",
@@ -3232,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_sizing.scss",
       "AssetKind": "All",
@@ -3249,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_spacing.scss",
       "AssetKind": "All",
@@ -3266,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_stretched-link.scss",
       "AssetKind": "All",
@@ -3283,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_text.scss",
       "AssetKind": "All",
@@ -3300,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/utilities/_visibility.scss",
       "AssetKind": "All",
@@ -3317,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/bootstrap/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -3334,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\scss\\style.scss",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\scss\\style.scss",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "scss/style.scss",
       "AssetKind": "All",

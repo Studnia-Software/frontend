@@ -1,7 +1,7 @@
 ﻿.element_produktu
 {
     position: relative;
-    top: 150px;
+    top: 120px;
     width:99%;
     height: 700px;
 }
@@ -129,7 +129,7 @@
     vertical-align:middle;
     margin: 0;
     color: black;
-
+    margin-top: -1px;
 }
 
 .forms_marketplace > li > div:not(:first-child and :nth-child(2))

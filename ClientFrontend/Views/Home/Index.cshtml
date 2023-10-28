@@ -1,5 +1,6 @@
 ﻿@model List<Farm>
 
+
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -49,33 +50,29 @@
     <div class="search_bar"></div>
     <div class="marketplace">
         <ul class="forms_marketplace">
-            <li>
-                <div class="zdjecie_farmy">
-                <img src="/IMG/produkt1.png">
-                </div>
-                <div class="nazwa_farmy"><p>Beka z farmera</p></div>
-                <div class="delivery_time"><img src="IMG/czas.png" ><p>30-45min</p></div>
-                <div class="delivery_days"><img src="IMG/dostawa.png" ><p>Pon,wt</p></div>
-                <div class="system_oceniania">
-                    <img src="IMG/gwiazdka_pelna.png"/>
-                    <p>(4,5)</p>
-                </div>                
-                <div class="farmer_location">
-                    <img src="IMG/location.png">
-                    <p> Wrocław</p>
-                </div>
+            @foreach(var farmer in Model.Take(8))
+            {
+                <li>
+                    <div class="zdjecie_farmy">
+                        <img src="/IMG/produkt1.png">
+                    </div>
+                    <div class="nazwa_farmy">
+                        <p>@farmer.Name</p></div>
+                    <div class="delivery_time"><img src="IMG/czas.png">
+                        <p>@farmer.Delivery_Time</p></div>
+                    <div class="delivery_days"><img src="IMG/dostawa.png">
+                        <p>@farmer.Delivery_Days</p></div>
+                    <div class="system_oceniania">
+                        <img src="IMG/gwiazdka_pelna.png"/>
+                        <p>(4,5)</p>
+                    </div>
+                    <div class="farmer_location">
+                        <img src="IMG/location.png">
+                        <p>@farmer.Location.City, @farmer.Location.Areas[0]</p>
+                    </div>
 
-            </li>
-            <li>Warzywo gaming</li>
-            <li>dCADSADASD</li>
-            <li>Beka z farmera</li>
-            <li>Warzywo gaming</li>
-            <li>dCADSADASD</li>
-            <li>Beka z farmera</li>
-            <li>Warzywo gaming</li>
-            <li>dCADSADASD</li>
-            <li>Beka z farmera</li>
-            <li>Warzywo gaming</li>
+                </li>
+            }
         </ul>
     </div>
 </div>
