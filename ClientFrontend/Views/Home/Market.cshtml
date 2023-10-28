@@ -1,18 +1,88 @@
 ﻿@model List<Farm>
 
+
 @{
-    Layout = null;
+    ViewData["Title"] = "Home Page";
 }
 
-<!DOCTYPE html>
+@functions
+{
+    public List<string> GetDiffrentCities()
+    {
+        var cities = new List<string>();
 
-<html>
+        foreach (var farm in @Model)
+        {
+            var city = farm.Location.City;
+            cities.Add(city);
+        }
+        
+        return cities.Distinct().ToList();
+    }
+
+    public List<SelectListItem> DropDownItems(List<string> cities)
+    {
+        var itemList = new List<SelectListItem>();
+        foreach (var city in cities)
+        {
+            itemList.Add(new SelectListItem(city, city));
+        }
+        return itemList;
+    }
+    
+    string hyphen = "-";
+}
 <head>
-    <title>title</title>
+    <link rel="stylesheet" href="~/css/for_index.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-<div>
-      
+
+<div class="element_produktu">
+    <div class="search_bar">
+    @using(Html.BeginForm("GetSelectedValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "farm_filter" }))
+    {
+        <p>Wyszukaj</p>
+        <input type="text" value="Wyszukaj..."\ class="serach_inp">
+        <br>
+        <div><label>Lokalizacja:</label><br/>
+            @Html.DropDownList("FarmFilter", DropDownItems(GetDiffrentCities()), "Select Time")
+        </div>
+        <div>
+            <label>Cena:</label><br/>
+            <input type="number" value="min"/>  @hyphen   <input type="number" value="max"/>
+            <input type="submit" value="Submit" />
+        </div>
+    }
+    </div>
+    <div class="marketplace">
+        <ul class="forms_marketplace">
+            @foreach(var farmer in Model.Take(8))
+            {
+                <li>
+                    <div class="zdjecie_farmy">
+                        <img src="~/IMG/produkt1.png">
+                    </div>
+                    <div class="nazwa_farmy">
+                        <p>@farmer.Name</p></div>
+                    <div class="delivery_time"><img src="IMG/czas.png">
+                        <p>@farmer.Delivery_Time</p></div>
+                    <div class="delivery_days"><img src="IMG/dostawa.png">
+                        <p>@farmer.Delivery_Days</p></div>
+                    <div class="system_oceniania">
+                        <img src="IMG/gwiazdka_pelna.png"/>
+                        <p>(4,5)</p>
+                    </div>
+                    <div class="farmer_location">
+                        <img src="IMG/location.png">
+                        <p>@farmer.Location.City, @farmer.Location.Areas[0]</p>
+                    </div>
+            
+                </li>
+            }
+        </ul>
+    </div>
 </div>
 </body>
-</html>
