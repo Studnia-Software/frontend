@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filip Kwiek\\frontend\\ClientFrontend\\ClientFrontend.csproj": {}
+    "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filip Kwiek\\frontend\\ApiClient\\ApiClient.csproj": {
+    "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ApiClient\\ApiClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filip Kwiek\\frontend\\ApiClient\\ApiClient.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ApiClient\\ApiClient.csproj",
         "projectName": "ApiClient",
-        "projectPath": "C:\\Users\\Filip Kwiek\\frontend\\ApiClient\\ApiClient.csproj",
-        "packagesPath": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filip Kwiek\\frontend\\ApiClient\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ApiClient\\ApiClient.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ApiClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Filip Kwiek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "C:\\Users\\Filip Kwiek\\frontend\\ClientFrontend\\ClientFrontend.csproj": {
+    "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filip Kwiek\\frontend\\ClientFrontend\\ClientFrontend.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
         "projectName": "ClientFrontend",
-        "projectPath": "C:\\Users\\Filip Kwiek\\frontend\\ClientFrontend\\ClientFrontend.csproj",
-        "packagesPath": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filip Kwiek\\frontend\\ClientFrontend\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Filip Kwiek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Filip Kwiek\\frontend\\ApiClient\\ApiClient.csproj": {
-                "projectPath": "C:\\Users\\Filip Kwiek\\frontend\\ApiClient\\ApiClient.csproj"
+              "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ApiClient\\ApiClient.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ApiClient\\ApiClient.csproj"
               }
             }
           }
