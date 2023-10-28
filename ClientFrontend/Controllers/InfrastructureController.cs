@@ -21,11 +21,6 @@ public class InfrastructureController : Controller
     {
         var result = await _service.Ping();
         Console.WriteLine(await result.Content.ReadAsStringAsync());
-
-        if (result.IsSuccessStatusCode)
-        {
-            _notyf.Success("Success!");
-        }
         
         ModelState.AddModelError(await result.Content.ReadAsStringAsync(), "Error");
         return View(JsonConvert.DeserializeObject<Infrastructure>(await result.Content.ReadAsStringAsync()));

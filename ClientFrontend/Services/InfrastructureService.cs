@@ -15,7 +15,7 @@ public class InfrastructureService : IInfrastructureService
     public async Task<HttpResponseMessage> Ping()
     {
         var client = _client.CreateClient("WarzywaClient");
-        var request = new HttpRequestMessage(HttpMethod.Get, new Uri(client.BaseAddress + "test/ping"));
+        var request = new HttpRequestMessage(HttpMethod.Get, new Uri(client.BaseAddress + "api/ping"));
         var response = await client.SendAsync(request);
         return response;
     }

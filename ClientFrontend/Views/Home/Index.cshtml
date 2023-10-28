@@ -1,6 +1,42 @@
-﻿@{
+﻿@model List<Farm>
+
+@{
     ViewData["Title"] = "Home Page";
 }
+
+@functions
+{
+    public List<string> GetDiffrentCities()
+    {
+        var cities = new List<string>();
+
+        foreach (var farm in @Model)
+        {
+            var city = farm.Location.City;
+            cities.Add(city);
+        }
+        
+        return cities.Distinct().ToList();
+    }
+
+    public List<SelectListItem> DropDownItems(List<string> cities)
+    {
+        var itemList = new List<SelectListItem>();
+        foreach (var city in cities)
+        {
+            itemList.Add(new SelectListItem(city, city));
+        }
+        return itemList;
+    }
+}
+<!-- Do przeklejenia: -->
+@using(Html.BeginForm("GetSelectedValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.DropDownList("FarmFilter", DropDownItems(GetDiffrentCities()), "Select Time")
+
+    <input type="submit" value="Submit" />
+}
+
 <head>
     <link rel="stylesheet" href="~/css/for_index.css"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
