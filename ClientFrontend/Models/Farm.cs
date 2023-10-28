@@ -8,5 +8,5 @@ public class Farm
     public string Delivery_days { get; set; }
     public string Delivery_time { get; set; }
 
-    public List<Post> Posts { get; set; }
+    public List<Product> Products { get; set; }
 }
