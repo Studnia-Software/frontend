@@ -21,6 +21,7 @@ builder.Services.AddNotyf(config =>
     config.IsDismissable = true;
     config.Position = NotyfPosition.BottomRight;
 });
+builder.Services.AddScoped<IFarmService, FarmService>();
 
 var app = builder.Build();
 

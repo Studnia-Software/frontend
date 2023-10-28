@@ -385,8 +385,6 @@ C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\ru
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\ApiClient.dll
-C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\ApiClient.pdb
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\staticwebassets\msbuild.ClientFrontend.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientFrontend.props
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientFrontend.props

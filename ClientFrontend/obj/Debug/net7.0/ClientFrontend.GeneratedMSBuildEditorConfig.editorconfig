@@ -24,8 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Filip Kwiek/Desktop/Hakaton/frontend/ClientFrontend/Views/Infrastructure/Farm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mcmFzdHJ1Y3R1cmVcRmFybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Filip Kwiek/Desktop/Hakaton/frontend/ClientFrontend/Views/Infrastructure/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mcmFzdHJ1Y3R1cmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Filip Kwiek/Desktop/Hakaton/frontend/ClientFrontend/Views/Market/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Filip Kwiek/Desktop/Hakaton/frontend/ClientFrontend/Views/Shared/Error.cshtml]
