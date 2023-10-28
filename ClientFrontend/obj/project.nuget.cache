@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hKr+OQoedrf3NTTrywHeM7znWMd7vZ6kcH2WQWlG6LPFtAvm8E7yJGMVNBmaanIbKG+PN/t6KA6cI7eJPO/LOA==",
+  "dgSpecHash": "8S7u4nhv5AFlJSrTlWzgEiAHXPao9VdqZnZIWESTqJsp6rbC2gXi64WqsvA3iAWFFExbrg7Q4O+jTEV7lFZ5zA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
   "expectedPackageFiles": [
@@ -25,5 +25,12 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\westwind.aspnetcore.livereload\\0.4.2\\westwind.aspnetcore.livereload.0.4.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

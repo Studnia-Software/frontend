@@ -15,6 +15,12 @@ builder.Services.AddHttpClient("WarzywaClient", options =>
     options.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json", 1.0));
 });
 builder.Services.AddScoped<IInfrastructureService, InfrastructureService>();
+builder.Services.AddNotyf(config =>
+{
+    config.DurationInSeconds = 10;
+    config.IsDismissable = true;
+    config.Position = NotyfPosition.BottomRight;
+});
 
 var app = builder.Build();
 
@@ -31,7 +37,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseNotyf();
 app.UseAuthorization();
 
 app.MapControllerRoute(
