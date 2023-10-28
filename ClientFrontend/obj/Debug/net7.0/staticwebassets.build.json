@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "sWnKw4tQv5KbYcEmOjdkjXFNr2qrhfMmwLWVjdZvicE=",
-=======
-  "Hash": "zcKU8x63QW7pt6pK8E7WVZRGfOfQ792wqR1PiTWOyiY=",
->>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
+  "Hash": "Vr34hoMNy2+Z9lxyUKvC7MTpeaPlVaq8t8JN/lBnx3k=",
   "Source": "ClientFrontend",
   "BasePath": "_content/ClientFrontend",
   "Mode": "Default",
@@ -14,17 +10,17 @@
     {
       "Name": "ClientFrontend\\wwwroot",
       "Source": "ClientFrontend",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.css",
+      "Identity": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.css",
       "SourceId": "AspNetCoreHero.ToastNotification",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
       "BasePath": "_content/AspNetCoreHero.ToastNotification",
       "RelativePath": "notyf.min.css",
       "AssetKind": "All",
@@ -35,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js",
+      "Identity": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js",
       "SourceId": "AspNetCoreHero.ToastNotification",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
       "BasePath": "_content/AspNetCoreHero.ToastNotification",
       "RelativePath": "notyf.min.js",
       "AssetKind": "All",
@@ -52,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\notyf.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.css",
+      "Identity": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.css",
       "SourceId": "AspNetCoreHero.ToastNotification",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
       "BasePath": "_content/AspNetCoreHero.ToastNotification",
       "RelativePath": "toastify.css",
       "AssetKind": "All",
@@ -69,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.js",
+      "Identity": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.js",
       "SourceId": "AspNetCoreHero.ToastNotification",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\",
       "BasePath": "_content/AspNetCoreHero.ToastNotification",
       "RelativePath": "toastify.js",
       "AssetKind": "All",
@@ -86,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.js"
+      "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\staticwebassets\\toastify.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ClientFrontend.styles.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ClientFrontend.styles.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "ClientFrontend.styles.css",
       "AssetKind": "All",
@@ -103,13 +99,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ClientFrontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ClientFrontend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClientFrontend.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClientFrontend.bundle.scp.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "ClientFrontend.bundle.scp.css",
       "AssetKind": "All",
@@ -120,10 +116,9 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClientFrontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ClientFrontend.bundle.scp.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
@@ -261,12 +256,9 @@
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\css\\site.css",
->>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -280,7 +272,6 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\style.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
@@ -316,12 +307,9 @@
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\favicon.ico",
->>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -335,7 +323,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\fonts\\.DS_Store",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
@@ -523,6 +510,125 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icomoon\\style.css"
     },
     {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\czas.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/czas.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\czas.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\dostawa.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/dostawa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\dostawa.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\gwiazda_pół.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/gwiazda_pół.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\gwiazda_pół.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\gwiazda_pusta.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/gwiazda_pusta.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\gwiazda_pusta.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\gwiazdka_pelna.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/gwiazdka_pelna.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\gwiazdka_pelna.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\location.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/location.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\location.png"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo_landspace.png",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
@@ -555,6 +661,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\IMG\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt1.png",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "IMG/produkt1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG\\produkt1.png"
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\bootstrap.min.js",
@@ -660,12 +783,9 @@
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
-=======
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\js\\site.js",
->>>>>>> e5bb6ecaab758ab37d47b1b5309d552bb9fe732a
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -679,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -696,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -713,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -730,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -747,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -764,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -781,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -798,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -815,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -832,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -849,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -866,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -883,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -900,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -917,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -934,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -951,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -968,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -985,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1002,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1019,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1036,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1053,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1070,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1087,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1104,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1121,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1138,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1155,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1172,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1189,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1206,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1223,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1240,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1257,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1274,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1291,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1308,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1325,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1342,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1359,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1376,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1393,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1410,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1427,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1444,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1461,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1478,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1495,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1512,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1529,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1546,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1563,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1580,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1597,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1614,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1631,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ClientFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
       "BasePath": "_content/ClientFrontend",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

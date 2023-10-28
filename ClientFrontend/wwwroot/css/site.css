@@ -149,7 +149,8 @@ a, a:hover {
   z-index: 1999;
   position: absolute;
   top: 2rem;
-  width: 100%; }
+  width: 100%;
+}
 .site-navbar.transparent {
   background: transparent; }
 .site-navbar.absolute {
@@ -165,7 +166,7 @@ a, a:hover {
   margin-bottom: 0; }
 .site-navbar .site-navigation .site-menu .active > a span {
   background: rgba(128, 185, 24, 1);
-  color: black;
+  color: white;
   border-radius: 30px;
   display: inline-block;
   padding: 5px 20px; }
@@ -178,7 +179,7 @@ a, a:hover {
 }
 .site-navbar .site-navigation .site-menu > li > a {
   padding: 10px 0px;
-  color: black;
+  color: white;
   font-size: 16px;
   text-decoration: none !important; }
 .site-navbar .site-navigation .site-menu > li > a > span {
@@ -276,7 +277,7 @@ a, a:hover {
   color: rgba(128, 185, 24, 1); }
 .site-navbar .site-navigation .site-menu .has-children:hover > a span, .site-navbar .site-navigation .site-menu .has-children:focus > a span, .site-navbar .site-navigation .site-menu .has-children:active > a span {
   background: rgba(128, 185, 24, 1);
-  color: black; }
+  color: white; }
 .site-navbar .site-navigation .site-menu .has-children:hover, .site-navbar .site-navigation .site-menu .has-children:focus, .site-navbar .site-navigation .site-menu .has-children:active {
   cursor: pointer; }
 .site-navbar .site-navigation .site-menu .has-children:hover > .dropdown, .site-navbar .site-navigation .site-menu .has-children:focus > .dropdown, .site-navbar .site-navigation .site-menu .has-children:active > .dropdown {
@@ -430,6 +431,7 @@ a, a:hover {
 .site-logo a img
 {
   width: 100%;
+  margin-left:-20px;
   border-radius: 10px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
   border: 1px solid rgba(0,0,0,0.5);

@@ -5,12 +5,44 @@
       "PackagePath": "staticwebassets\\ClientFrontend.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png",
+      "PackagePath": "staticwebassets\\IMG\\DALL·E 2023-10-28 19.58.56 - Illustration of a red location pin icon on a transparent background. The pin has a sharp tip and a round head, casting a subtle shadow beneath it.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\czas.png",
+      "PackagePath": "staticwebassets\\IMG\\czas.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\dostawa.png",
+      "PackagePath": "staticwebassets\\IMG\\dostawa.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\gwiazda_pusta.png",
+      "PackagePath": "staticwebassets\\IMG\\gwiazda_pusta.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\gwiazda_pół.png",
+      "PackagePath": "staticwebassets\\IMG\\gwiazda_pół.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\gwiazdka_pelna.png",
+      "PackagePath": "staticwebassets\\IMG\\gwiazdka_pelna.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\location.png",
+      "PackagePath": "staticwebassets\\IMG\\location.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo.png",
       "PackagePath": "staticwebassets\\IMG\\logo.png"
     },
     {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\logo_landspace.png",
       "PackagePath": "staticwebassets\\IMG\\logo_landspace.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt1.png",
+      "PackagePath": "staticwebassets\\IMG\\produkt1.png"
     },
     {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
