@@ -385,16 +385,6 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
-      },
-      "ApiClient/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ApiClient.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ApiClient.dll": {}
-        }
       }
     }
   },
@@ -1054,16 +1044,10 @@
         "westwind.aspnetcore.livereload.0.4.2.nupkg.sha512",
         "westwind.aspnetcore.livereload.nuspec"
       ]
-    },
-    "ApiClient/1.0.0": {
-      "type": "project",
-      "path": "../ApiClient/ApiClient.csproj",
-      "msbuildProject": "../ApiClient/ApiClient.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ApiClient >= 1.0.0",
       "AspNetCoreHero.ToastNotification >= 1.1.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.13",
       "Newtonsoft.Json >= 13.0.3",
@@ -1094,11 +1078,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ApiClient\\ApiClient.csproj": {
-              "projectPath": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ApiClient\\ApiClient.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

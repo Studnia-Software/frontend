@@ -1,7 +1,7 @@
 ﻿@model Infrastructure
 
 @{
-    Layout = null;
+    Layout = "_Layout";
 }
 
 <!DOCTYPE html>
@@ -12,7 +12,8 @@
 </head>
 <body>
 <div>
-    @Model.Message 
+    <p>@Model.Message</p>
+    @await Component.InvokeAsync("Notyf")
 </div>
 </body>
 </html>
