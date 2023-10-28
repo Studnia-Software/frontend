@@ -13,6 +13,10 @@
     <PackageReference Include="Westwind.AspNetCore.LiveReload" Version="0.4.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Market\Index.cshtml" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
