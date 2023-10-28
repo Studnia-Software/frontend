@@ -9,3 +9,14 @@ C:\Users\Admin\OneDrive - WK sp. z o.o\Pulpit\test\Hackaton\frontend\ApiClient\o
 C:\Users\Admin\OneDrive - WK sp. z o.o\Pulpit\test\Hackaton\frontend\ApiClient\obj\Debug\net7.0\refint\ApiClient.dll
 C:\Users\Admin\OneDrive - WK sp. z o.o\Pulpit\test\Hackaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.pdb
 C:\Users\Admin\OneDrive - WK sp. z o.o\Pulpit\test\Hackaton\frontend\ApiClient\obj\Debug\net7.0\ref\ApiClient.dll
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\bin\Debug\net7.0\ApiClient.deps.json
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\bin\Debug\net7.0\ApiClient.dll
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\bin\Debug\net7.0\ApiClient.pdb
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.AssemblyInfoInputs.cache
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.AssemblyInfo.cs
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.dll
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\refint\ApiClient.dll
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ApiClient.pdb
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ApiClient\obj\Debug\net7.0\ref\ApiClient.dll
