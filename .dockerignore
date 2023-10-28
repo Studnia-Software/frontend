@@ -15,6 +15,7 @@
 **/bin
 **/charts
 **/node_modules
+**/Dockerfile
 **/npm-debug.log
 **/obj
 **/secrets.dev.yaml
