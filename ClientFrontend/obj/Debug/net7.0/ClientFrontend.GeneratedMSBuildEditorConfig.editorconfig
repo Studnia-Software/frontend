@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Admin\OneDrive - WK sp. z o.o\Pulpit\test\Hackaton\frontend\ClientFrontend
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Admin/OneDrive - WK sp. z o.o/Pulpit/test/Hackaton/frontend/ClientFrontend/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/OneDrive - WK sp. z o.o/Pulpit/test/Hackaton/frontend/ClientFrontend/Views/Home/Farmer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXJtZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive - WK sp. z o.o/Pulpit/test/Hackaton/frontend/ClientFrontend/Views/Home/FarmerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXJtZXJJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/OneDrive - WK sp. z o.o/Pulpit/test/Hackaton/frontend/ClientFrontend/Views/Home/Index.cshtml]

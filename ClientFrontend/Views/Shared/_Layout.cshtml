@@ -40,20 +40,20 @@
               <ul class="site-menu js-clone-nav mr-auto d-none d-lg-block">
                 <li ><a asp-area="" asp-controller="Home" asp-action="Index"><span>Zaloguj</span></a></li>
                 <li class="has-children">
-                  <a href="about.html"><span>Dropdown</span></a>
+                  <a href="about.html"><span>Zmiana użytkownika</span></a>
                   <ul class="dropdown arrow-top">
-                    <li><a href="#">Menu One</a></li>
-                    <li><a href="#">Menu Two</a></li>
-                    <li><a href="#">Menu Three</a></li>
-                    <li class="has-children">
-                      <a href="#">Dropdown</a>
-                      <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
-                        <li><a href="#">Menu Four</a></li>
-                      </ul>
-                    </li>
+                    <li id="per_user"><a id="per_user">Konto Usera</a></li>
+                    <li id="per_farmer"><a id="per_farmer">Konto Farmera</a></li>
+                    @* <li><a href="#">Menu Three</a></li> *@
+                    @* <li class="has-children"> *@
+                    @*   <a href="#">Dropdown</a> *@
+                    @*   <ul class="dropdown"> *@
+                    @*     <li><a href="#">Menu One</a></li> *@
+                    @*     <li><a href="#">Menu Two</a></li> *@
+                    @*     <li><a href="#">Menu Three</a></li> *@
+                    @*     <li><a href="#">Menu Four</a></li> *@
+                    @*   </ul> *@
+                    @* </li> *@
                   </ul>
                 </li>
                 <li><a href="listings.html"><span>Listings</span></a></li>
@@ -81,6 +81,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.sticky.js"></script>
     <script src="js/main.js"></script>
+    <script src="~/js/konto.js" asp-append-version="true"></script>
     </header>
     <div class="container main">
         <main role="main" class="pb-3">
@@ -94,8 +95,8 @@
     @*     </div> *@
     @* </footer> *@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="js/main.js"></script>
+  <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/main.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await Component.InvokeAsync("Notyf")
     @await RenderSectionAsync("Scripts", required: false)

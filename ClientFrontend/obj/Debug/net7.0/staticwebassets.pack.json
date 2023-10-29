@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ClientFrontend.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\Dodaj.png",
+      "PackagePath": "staticwebassets\\IMG\\Dodaj.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\czas.png",
       "PackagePath": "staticwebassets\\IMG\\czas.png"
     },
@@ -39,6 +43,22 @@
     {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt1.png",
       "PackagePath": "staticwebassets\\IMG\\produkt1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt2.png",
+      "PackagePath": "staticwebassets\\IMG\\produkt2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt3.png",
+      "PackagePath": "staticwebassets\\IMG\\produkt3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt4.png",
+      "PackagePath": "staticwebassets\\IMG\\produkt4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\produkt5.png",
+      "PackagePath": "staticwebassets\\IMG\\produkt5.png"
     },
     {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
@@ -141,12 +161,20 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\form_showing.js",
+      "PackagePath": "staticwebassets\\js\\form_showing.js"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
     {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\jquery.sticky.js",
       "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\konto.js",
+      "PackagePath": "staticwebassets\\js\\konto.js"
     },
     {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\js\\main.js",

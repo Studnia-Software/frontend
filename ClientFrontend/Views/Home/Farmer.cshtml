@@ -2,22 +2,29 @@
 
 @{
     Layout = "_Layout";
+    Random rnd = new Random();
+    List<string> randImg = new List<string>();
+    for (int i = 0; i <= 20; i++)
+    {
+        int rand = rnd.Next(1, 5);
+        randImg.Add($"/IMG/produkt{rand}.png");
+    }
 }
 <head>
 <link rel="stylesheet" href="~/css/farmer.css">
 </head>
 <body>
 <div class="main_farmer">
-    <img src="~/IMG/produkt1.png"/>
-    <p class="nazwa">@Model.Name</p>
-        <div class="delivery_time"><img src="~/IMG/czas.png"> <p>@Model.Delivery_Time</p></div>
+    <img src="@randImg[0]"/>
+    <p class="nazwa">@Model.Name</p><img class="add_button" id="add_button" src="~/IMG/Dodaj.png"/>
+    <div class="delivery_time"><img src="~/IMG/czas.png"> <p>@Model.Delivery_Time</p></div>
     <div class="delivery_days"><img src="~/IMG/dostawa.png"><p>@Model.Delivery_Days</p></div>
 
     <ul class="posty">
         @foreach(var posty in Model.Posts)
         {
             <li>
-                <img src="~/IMG/produkt1.png">
+                <img src="@randImg[@posty.Id+1]">
                 <p class="tytul">@posty.Title</p>
                 <p class="produkt">@posty.Product.Name</p>
                 <p class="cena">@posty.Price.Amount</p>
@@ -25,4 +32,29 @@
         }
     </ul>
 </div>
+
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" id="closeModalBtn">&times;</span>
+      <form>
+        <h2>Dodaj produkt</h2>
+        <div class="form-group">
+          <label for="name">Tytuł:</label>
+          <input type="text" id="name" name="name" placeholder="Tytuł">
+        </div>
+          <div class="form-group">
+              <label for="Nazwa">Nazwa</label>
+              <input type="text" id="email" name="Nazwa">
+          </div>
+                  <div class="form-group">
+                    <label for="Nazwa">Cena</label>
+                    <input type="number" id="email" name="Cena">
+                  </div>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+
+<script src="~/js/form_showing.js"></script>
 </body>

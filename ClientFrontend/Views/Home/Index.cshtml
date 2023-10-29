@@ -4,8 +4,12 @@
 @{
     ViewData["Title"] = "Home Page";
     Random rnd = new Random();
-    int rand = rnd.Next(1, 5);
-    string randImg = $"~/IMG/produkt{rand}.png";
+    List<string> randImg = new List<string>();
+    for (int i = 0; i <= 8; i++)
+    {
+        int rand = rnd.Next(1, 5);
+        randImg.Add($"/IMG/produkt{rand}.png");
+    }
 }
 
 @functions
@@ -92,7 +96,7 @@
             {
                 <a asp-area="" asp-controller="Home" asp-action="GetFarmPosts" asp-route-id="@farmer.Id"><li>
                     <div class="zdjecie_farmy">
-                        <img src="~/IMG/produkt1.png">
+                        <img src="@randImg[@farmer.Id]">
                     </div>
                     <div class="nazwa_farmy">
                         <p>@farmer.Name</p></div>

@@ -46,11 +46,11 @@
 
 .zdjecie_farmy img
 {
-    height: 150px;
+    height: 146px;
     /*top: -50px;*/
     /*left: -50px;*/
     /*float: left;*/
-    border-radius: 12px;
+    border-radius: 10px;
     /*border-top-right-radius: 10%;*/
     /*border-bottom-right-radius: 10%;*/
 
