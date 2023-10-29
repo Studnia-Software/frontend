@@ -66,13 +66,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9a2f737f14dc6ec1e13f6b55a19abafb6162b9d5
 <div class="element_produktu">
     <div class="search_bar">
     @using(Html.BeginForm("GetSelectedValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "farm_filter" }))
     {
         <p>Wyszukaj</p>
-        <input type="text" value="Wyszukaj..."\ class="serach_inp">
+        <input type="text" placeholder="Wyszukaj..."\ class="serach_inp">
         <br>
         <div><label>Lokalizacja:</label><br/>
             @Html.DropDownList("FarmFilter", DropDownItems(GetDiffrentCities()), "Wybierz lokalizacje")

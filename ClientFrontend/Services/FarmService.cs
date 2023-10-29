@@ -23,7 +23,7 @@ public class FarmService : IFarmService
     {
         var client = _clientFactory.CreateClient("WarzywaClient");
         var response = await client.GetAsync(client.BaseAddress + $"api/get-farm-posts/{id}");
-
+        
         return response;
     }
 

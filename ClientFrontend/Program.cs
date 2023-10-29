@@ -27,7 +27,12 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IPostService, PostService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddDataProtection()
+<<<<<<< HEAD
+    .PersistKeysToFileSystem(new DirectoryInfo(@"\\UNC-PATH"));
+
+=======
     .PersistKeysToFileSystem(new DirectoryInfo(@"\\UNC-PATH"));;
+>>>>>>> 216a2409924eb68a6efe767092513c575bda84e3
 
 var app = builder.Build();
 

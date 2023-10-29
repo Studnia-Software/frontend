@@ -22,7 +22,7 @@
     <p class="nazwa">@Model.Name</p><img class="add_button" id="add_button" src="~/IMG/Dodaj.png"/>
     <div class="delivery_time"><img src="~/IMG/czas.png"> <p>@Model.Delivery_Time</p></div>
     <div class="delivery_days"><img src="~/IMG/dostawa.png"><p>@Model.Delivery_Days</p></div>
-
+    
     <ul class="posty">
         @foreach(var posty in Model.Posts)
         {
@@ -31,6 +31,7 @@
                 <p class="tytul">@posty.Title</p>
                 <p class="produkt">@posty.Product.Name</p>
                 <p class="cena">@posty.Price.Amount</p>
+                <input type="number" min="0" max="@posty.Price.Quantity"/>
             </li>
         }
     </ul>
@@ -40,6 +41,7 @@
   <div id="modal" class="modal">
     <div class="modal-content">
         <span class="close" id="closeModalBtn">&times;</span>
+<<<<<<< HEAD
               <form method="post" onsubmit="location.href=@Url.Action("CreateOrder", "Home", new_post)">
                   <h2>Dodaj produkt</h2>
                 <div class="form-group">
@@ -61,6 +63,29 @@
                 <input type="submit" value="Submit">
               </form>
           </div>
+=======
+      <form method="post" onsubmit="location.href=@Url.Action("CreateOrder", "Home", new_post)">
+          <h2>Dodaj produkt</h2>
+        <div class="form-group">
+          <label for="name">Tytuł:</label>
+          <input type="text" id="name" name="name" asp-for="@new_post.Title">
+        </div>
+          <div class="form-group">
+              <label for="Nazwa">Nazwa:</label>
+              <input type="text" id="nazwa" name="Nazwa" asp-for="@new_post.Product_Name">
+          </div>
+          <div class="form-group">
+              <label for="Nazwa">Opis produktu:</label>
+              <input type="text" id="opis_produktu" name="opis_produktu" asp-for="@new_post.Product_Description">
+          </div>          
+                  <div class="form-group">
+                    <label for="Nazwa">Cena:</label>
+                    <input type="number" id="cena" min="0" placeholder="" name="Cena" asp-for="@new_post.Amount">
+                  </div>
+        <input type="submit" value="Dodaj">
+      </form>
+    </div>
+>>>>>>> main
   </div>
 
 <script src="~/js/form_showing.js"></script>
