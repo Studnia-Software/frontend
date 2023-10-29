@@ -24,8 +24,9 @@ public class HomeController : Controller
     public async Task<IActionResult> Index()
     {
         var result = await _service.GetFarms();
-        Console.WriteLine(await result.Content.ReadAsStringAsync());
-        return View(JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync()));
+        var msg = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
+        
+        return View();
     }
     
     [HttpPost]
@@ -37,6 +38,15 @@ public class HomeController : Controller
         var msg = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
 
         var filteredValue = msg.Where(x => x.Location.City == selectedValue).ToList();
+
+        for (int i = 0; i < filteredValue.Count - 1; i++)
+        {
+            if (filteredValue[i] == filteredValue[i + 1])
+            {
+                RedirectToAction("Index");
+                break;
+            }
+        }
         
         return View("Market", filteredValue);
     }

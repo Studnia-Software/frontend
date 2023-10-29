@@ -3,6 +3,9 @@
 
 @{
     ViewData["Title"] = "Home Page";
+    Random rnd = new Random();
+    int rand = rnd.Next(1, 5);
+    string randImg = $"~/IMG/produkt{rand}.png";
 }
 
 @functions
