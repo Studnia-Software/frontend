@@ -73,11 +73,7 @@ public class HomeController : Controller
         }
 
         Console.WriteLine(await result.Content.ReadAsStreamAsync());
-<<<<<<< Updated upstream
-        return NoContent();
-=======
         return RedirectToAction("Index");
->>>>>>> Stashed changes
     }
     
     [ValidateAntiForgeryToken]
@@ -104,6 +100,11 @@ public class HomeController : Controller
         
         var msg = JsonConvert.DeserializeObject<Farm>(await result.Content.ReadAsStringAsync());
         return View("Farmer", msg);
+    }
+
+    public async Task<IActionResult> GetOrders()
+    {
+        return NoContent();
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

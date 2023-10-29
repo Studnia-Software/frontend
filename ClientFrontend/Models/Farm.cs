@@ -9,8 +9,5 @@ public class Farm
     public Location Location { get; set; }
 
     public List<Post> Posts { get; set; }
-<<<<<<< Updated upstream
-=======
-    public CreatePost CreatePost { get; set; } 
->>>>>>> Stashed changes
+    public CreatePost CreatePost { get; set; }
 }
