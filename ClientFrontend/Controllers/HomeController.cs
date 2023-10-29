@@ -73,7 +73,11 @@ public class HomeController : Controller
         }
 
         Console.WriteLine(await result.Content.ReadAsStreamAsync());
+<<<<<<< Updated upstream
         return NoContent();
+=======
+        return RedirectToAction("Index");
+>>>>>>> Stashed changes
     }
     
     [ValidateAntiForgeryToken]
