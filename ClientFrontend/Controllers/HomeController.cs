@@ -6,6 +6,7 @@ using ClientFrontend.Models;
 using ClientFrontend.Services;
 using Newtonsoft.Json;
 using System.Linq;
+using ClientFrontend.Exception;
 
 namespace ClientFrontend.Controllers;
 
@@ -35,17 +36,22 @@ public class HomeController : Controller
         return View(modeles);
     }
 
-    public async Task<IActionResult> FarmerIndex()
+    public async Task<IActionResult> FarmerIndex([FromRoute] int )
     {
         var result = _service.GetFarms();
+        var msg = 
         return View("FarmerIndex");
     }
     
-    [HttpPost]
-    public async Task<IActionResult> FarmerIndex(CreatePost dto)
+    public async Task<IActionResult> CreatePost(CreatePost dto)
     {
         var result = await _postService.CreatePost(dto);
-        return View();
+
+        if (result.IsSuccessStatusCode)
+        {
+            return RedirectToAction("FarmerIndex");
+        }
+        throw new BadRequestException("Bad Request");
     }
     
     [HttpPost]
@@ -82,7 +88,7 @@ public class HomeController : Controller
             return RedirectToAction("Index");
         }
        
-        return RedirectToAction("FarmerIndex");
+        return RedirectToAction("FarmerIndex", selectedValue);
     }
 
     public async Task<IActionResult> GetUser(int id = 0)
