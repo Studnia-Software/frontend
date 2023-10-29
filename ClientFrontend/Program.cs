@@ -24,6 +24,7 @@ builder.Services.AddNotyf(config =>
 builder.Services.AddScoped<IFarmService, FarmService>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IPostService, PostService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 
 var app = builder.Build();
 

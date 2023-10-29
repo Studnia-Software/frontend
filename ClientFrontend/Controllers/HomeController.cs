@@ -6,6 +6,7 @@ using ClientFrontend.Models;
 using ClientFrontend.Services;
 using Newtonsoft.Json;
 using System.Linq;
+using ClientFrontend.Exception;
 
 namespace ClientFrontend.Controllers;
 
@@ -15,37 +16,23 @@ public class HomeController : Controller
     private readonly IFarmService _service;
     private readonly IUserService _userService;
     private readonly IPostService _postService;
-    public HomeController(ILogger<HomeController> logger, IFarmService service, IUserService userService, IPostService postService)
+    private readonly IOrderService _orderService;
+    public HomeController(ILogger<HomeController> logger, IFarmService service, IUserService userService, IPostService postService, IOrderService orderService)
     {
         _logger = logger;
         _service = service;
         _userService = userService;
         _postService = postService;
+        _orderService = orderService;
     }
 
     public async Task<IActionResult> Index()
     {
-        var modeles = new MultipleModels();
-        
         var result = await _service.GetFarms();
         var result1 = await _userService.GetUsers();
-        modeles.Farms = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
-        modeles.Users = JsonConvert.DeserializeObject<List<User>>(await result.Content.ReadAsStringAsync());
+        var farms = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
         
-        return View(modeles);
-    }
-
-    public async Task<IActionResult> FarmerIndex()
-    {
-        var result = _service.GetFarms();
-        return View("FarmerIndex");
-    }
-    
-    [HttpPost]
-    public async Task<IActionResult> FarmerIndex(CreatePost dto)
-    {
-        var result = await _postService.CreatePost(dto);
-        return View();
+        return View(farms);
     }
     
     [HttpPost]
@@ -69,29 +56,31 @@ public class HomeController : Controller
         
         return View("Market", filteredValue);
     }
-    
-    [HttpPost]
-    public async Task<IActionResult> GetUserValue()
-    {
-        var selectedValue = Request.Form["userGetter"].ToString();
-        //user -> posts in user's area
-        //farmer -> posts in area + add panel
 
-        if (selectedValue == "1")
+    public async Task<IActionResult> CreatePost(CreatePost dto)
+    {
+        var result = await _postService.CreatePost(dto);
+
+        if (!result.IsSuccessStatusCode)
         {
-            return RedirectToAction("Index");
+            return RedirectToAction("CreatePost");
         }
-       
-        return RedirectToAction("FarmerIndex");
+        
+        return RedirectToAction("GetFarmPosts");
     }
 
-    public async Task<IActionResult> GetUser(int id = 0)
+    public async Task<IActionResult> CreateOrder(CreateOrder dto)
     {
-        var result = await _userService.GetUser(id);
-        var msg = JsonConvert.DeserializeObject<UserFarmsArea>(await result.Content.ReadAsStringAsync());
-        return View("UserView", msg);
-    }
+        var result = await _orderService.CreateOrder(dto);
 
+        if (!result.IsSuccessStatusCode)
+        {
+            return RedirectToAction("CreateOrder");
+        }
+        
+        return RedirectToAction("GetFarmPosts");
+    }
+    
     public async Task<IActionResult> GetFarmPosts(int id)
     {
         var result = await _service.GetFarm(id);
