@@ -37,19 +37,15 @@ public class HomeController : Controller
 
     public async Task<IActionResult> FarmerIndex()
     {
-        
+        var result = _service.GetFarms();
         return View("FarmerIndex");
     }
-
-    public async Task<IActionResult> Create()
-    {
-        return View();
-    }
-
+    
     [HttpPost]
-    public async Task<IActionResult> Create(CreatePost dto)
+    public async Task<IActionResult> FarmerIndex(CreatePost dto)
     {
-        return View(dto);
+        var result = await _postService.CreatePost(dto);
+        return View();
     }
     
     [HttpPost]
@@ -86,7 +82,7 @@ public class HomeController : Controller
             return RedirectToAction("Index");
         }
        
-        return RedirectToAction("");
+        return RedirectToAction("FarmerIndex");
     }
 
     public async Task<IActionResult> GetUser(int id = 0)
