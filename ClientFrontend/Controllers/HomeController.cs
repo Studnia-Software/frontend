@@ -56,7 +56,8 @@ public class HomeController : Controller
         
         return View("Market", filteredValue);
     }
-
+    
+    [ValidateAntiForgeryToken]
     public async Task<IActionResult> CreatePost(CreatePost dto)
     {
         var result = await _postService.CreatePost(dto);
@@ -68,7 +69,8 @@ public class HomeController : Controller
         
         return RedirectToAction("GetFarmPosts");
     }
-
+    
+    [ValidateAntiForgeryToken]
     public async Task<IActionResult> CreateOrder(CreateOrder dto)
     {
         var result = await _orderService.CreateOrder(dto);
