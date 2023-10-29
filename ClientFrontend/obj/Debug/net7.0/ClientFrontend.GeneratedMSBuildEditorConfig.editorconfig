@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Filip Kwiek/Desktop/Hakaton/frontend/ClientFrontend/Views/Home/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Filip Kwiek/Desktop/Hakaton/frontend/ClientFrontend/Views/Home/Farmer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXJtZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
