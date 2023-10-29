@@ -59,11 +59,7 @@ public class HomeController : Controller
         
         return View("Market", filteredValue);
     }
-
-    public async Task<IActionResult> CreatePost()
-    {
-        return View();
-    }
+    
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> CreatePost([FromRoute]int id,CreatePost dto)
@@ -77,7 +73,7 @@ public class HomeController : Controller
         }
 
         Console.WriteLine(await result.Content.ReadAsStreamAsync());
-        return Created();
+        return NoContent();
     }
     
     [ValidateAntiForgeryToken]
@@ -89,7 +85,7 @@ public class HomeController : Controller
         {
             return RedirectToAction("CreateOrder");
         }
-        
+        Console.WriteLine(await result.Content.ReadAsStringAsync());
         return RedirectToAction("GetFarmPosts");
     }
     

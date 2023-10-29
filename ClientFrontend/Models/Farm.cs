@@ -9,9 +9,4 @@ public class Farm
     public Location Location { get; set; }
 
     public List<Post> Posts { get; set; }
-<<<<<<< HEAD
-    
-=======
-    public CreatePost CreatePost { get; set; } 
->>>>>>> 216a2409924eb68a6efe767092513c575bda84e3
 }

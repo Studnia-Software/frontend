@@ -36,6 +36,7 @@
       "ClientFrontend/1.0.0": {
         "dependencies": {
           "AspNetCoreHero.ToastNotification": "1.1.0",
+          "DotNet.Cookies": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "7.0.13",
           "Newtonsoft.Json": "13.0.3",
           "Westwind.AspNetCore.LiveReload": "0.4.2",
@@ -360,6 +361,17 @@
         "compile": {
           "lib/net5.0/AspNetCoreHero.ToastNotification.Views.dll": {},
           "lib/net5.0/AspNetCoreHero.ToastNotification.dll": {}
+        }
+      },
+      "DotNet.Cookies/1.0.0": {
+        "runtime": {
+          "lib/net461/DotNet.Cookies.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/net461/DotNet.Cookies.dll": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
@@ -2382,6 +2394,13 @@
       "sha512": "sha512-bCAYeD+b2pRelcOrHMNtYGVtRq+J2u+SAaND33v3u6qZCatHf4XSZOEPhBfCKJAjMGvsggtPKaNFnrv4VhwOfA==",
       "path": "aspnetcorehero.toastnotification/1.1.0",
       "hashPath": "aspnetcorehero.toastnotification.1.1.0.nupkg.sha512"
+    },
+    "DotNet.Cookies/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cy93z7E7O/POsVN1hDjZZrlE52NJMQsGP+pBqxWsfiDFjR7BU9UGvuVkviIQ7gX+XOsSUcuhi+3jcanhiKr/Gw==",
+      "path": "dotnet.cookies/1.0.0",
+      "hashPath": "dotnet.cookies.1.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
       "type": "package",

@@ -9,9 +9,7 @@
         int rand = rnd.Next(1, 5);
         randImg.Add($"/IMG/produkt{rand}.png");
     }
-    var helper = new Helper();
     var new_post = new CreatePost();
-    new_post.User_id = helper.Id;
 }
 <head>
 <link rel="stylesheet" href="~/css/farmer.css">
@@ -39,53 +37,29 @@
 
 
   <div id="modal" class="modal">
-    <div class="modal-content">
-        <span class="close" id="closeModalBtn">&times;</span>
-<<<<<<< HEAD
-              <form method="post" onsubmit="location.href=@Url.Action("CreateOrder", "Home", new_post)">
-                  <h2>Dodaj produkt</h2>
-                <div class="form-group">
-                  <label for="name">Tytuł:</label>
-                  <input type="text" id="name" name="name" placeholder="Tytuł" asp-for="@new_post.Title">
-                </div>
-                  <div class="form-group">
-                      <label for="Nazwa">Nazwa</label>
-                      <input type="text" id="nazwa" name="Nazwa" asp-for="@new_post.Product_Name">
-                  </div>
-                  <div class="form-group">
-                      <label for="Nazwa">Opis produktu</label>
-                      <input type="text" id="opis_produktu" name="opis_produktu" asp-for="@new_post.Product_Description">
-                  </div>
-                          <div class="form-group">
-                            <label for="Nazwa">Cena</label>
-                            <input type="number" id="cena" name="Cena" asp-for="@new_post.Amount">
-                          </div>
-                <input type="submit" value="Submit">
-              </form>
-          </div>
-=======
-      <form method="post" onsubmit="location.href=@Url.Action("CreateOrder", "Home", new_post)">
+  <div class="modal-content">
+      <span class="close" id="closeModalBtn">&times;</span>
+      <form method="post" asp-area="" asp-controller="Home" asp-action="CreatePost" asp-route-dto="@new_post">
           <h2>Dodaj produkt</h2>
-        <div class="form-group">
-          <label for="name">Tytuł:</label>
-          <input type="text" id="name" name="name" asp-for="@new_post.Title">
-        </div>
           <div class="form-group">
-              <label for="Nazwa">Nazwa:</label>
+              <label for="name">Tytuł:</label>
+              <input type="text" id="name" name="name" placeholder="Tytuł" asp-for="@new_post.Title">
+          </div>
+          <div class="form-group">
+              <label for="Nazwa">Nazwa</label>
               <input type="text" id="nazwa" name="Nazwa" asp-for="@new_post.Product_Name">
           </div>
           <div class="form-group">
-              <label for="Nazwa">Opis produktu:</label>
+              <label for="Nazwa">Opis produktu</label>
               <input type="text" id="opis_produktu" name="opis_produktu" asp-for="@new_post.Product_Description">
-          </div>          
-                  <div class="form-group">
-                    <label for="Nazwa">Cena:</label>
-                    <input type="number" id="cena" min="0" placeholder="" name="Cena" asp-for="@new_post.Amount">
-                  </div>
-        <input type="submit" value="Dodaj">
+          </div>
+          <div class="form-group">
+              <label for="Nazwa">Cena</label>
+              <input type="number" id="cena" name="Cena" asp-for="@new_post.Amount">
+          </div>
+          <input type="submit" value="Submit">
       </form>
-    </div>
->>>>>>> main
+  </div>
   </div>
 
 <script src="~/js/form_showing.js"></script>

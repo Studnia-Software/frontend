@@ -18,6 +18,12 @@
     <_ContentIncludedByDefault Remove="Views\Market\Index.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="Models\Helper.cs">
+      <DependentUpon>Farm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
