@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GrKlMpijD63N5lziFCCU/UYKOscLD+T39pgdnaku7sw=",
+  "Hash": "k/76pxx0nGwqhmAMAEllNzGBwKvCQaYZVkbT0C2STCk=",
   "Source": "ClientFrontend",
   "BasePath": "_content/ClientFrontend",
   "Mode": "Default",
@@ -219,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\mixins\\_reset-text.css"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\farmer.css",
+      "SourceId": "ClientFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\",
+      "BasePath": "_content/ClientFrontend",
+      "RelativePath": "css/farmer.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\farmer.css"
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\for_index.css",

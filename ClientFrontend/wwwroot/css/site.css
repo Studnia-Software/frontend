@@ -180,10 +180,10 @@ a, a:hover {
 .site-navbar .site-navigation .site-menu > li > a {
   padding: 10px 0px;
   color: white;
-  font-size: 16px;
+  font-size: 19px;
   text-decoration: none !important; }
 .site-navbar .site-navigation .site-menu > li > a > span {
-  padding: 5px 20px;
+  padding: 10px 40px;
   display: inline-block;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -430,11 +430,12 @@ a, a:hover {
 
 .site-logo a img
 {
-  width: 100%;
-  margin-left:-20px;
+  width: 152%;
+  margin-left: -20px;
   border-radius: 10px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
   border: 1px solid rgba(0,0,0,0.5);
+  border-top-left-radius: 0;
 }
 
 /*.main*/

@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\farmer.css",
+      "PackagePath": "staticwebassets\\css\\farmer.css"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\for_index.css",
       "PackagePath": "staticwebassets\\css\\for_index.css"
     },

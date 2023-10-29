@@ -24,7 +24,7 @@
     margin-right: 100px;
 }
 
-.forms_marketplace li {
+.forms_marketplace a li {
     background-color: rgba(240, 240, 240, 1);
     box-shadow: 0 5px 5px rgba(0,0,0, 0.5);
     width: 890px;
@@ -57,7 +57,7 @@
 }
 
 
-.forms_marketplace li div:not(:first-child)
+.forms_marketplace a li div:not(:first-child)
 {
     margin-left: -170px;
 }
@@ -109,7 +109,7 @@
     grid-row: 3 / 3;
 }
 
-.forms_marketplace > li > div:not(:first-child) > img
+.forms_marketplace > a > li > div:not(:first-child) > img
 {
     width: 15px;
     display: inline-block;
@@ -117,7 +117,7 @@
     margin-top: 1px;
 }
 
-.forms_marketplace > li > div:not(:nth-child(2)) > p
+.forms_marketplace > a > li > div:not(:nth-child(2)) > p
 {
     display: inline-block;
     vertical-align:middle;
@@ -126,7 +126,7 @@
     margin-top: -1px;
 }
 
-.forms_marketplace > li > div:not(:first-child and :nth-child(2))
+.forms_marketplace > a > li > div:not(:first-child and :nth-child(2))
 {
     height: 30px;
 }

@@ -22,6 +22,7 @@ builder.Services.AddNotyf(config =>
     config.Position = NotyfPosition.BottomRight;
 });
 builder.Services.AddScoped<IFarmService, FarmService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 
