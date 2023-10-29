@@ -13,11 +13,12 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
     private readonly IFarmService _service;
-
-    public HomeController(ILogger<HomeController> logger, IFarmService service)
+    private readonly IUserService _userService;
+    public HomeController(ILogger<HomeController> logger, IFarmService service, IUserService userService)
     {
         _logger = logger;
         _service = service;
+        _userService = userService;
     }
 
     public async Task<IActionResult> Index()
@@ -25,11 +26,6 @@ public class HomeController : Controller
         var result = await _service.GetFarms();
         Console.WriteLine(await result.Content.ReadAsStringAsync());
         return View(JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync()));
-    }
-
-    public IActionResult Privacy()
-    {
-        return View();
     }
     
     [HttpPost]
@@ -43,6 +39,20 @@ public class HomeController : Controller
         var filteredValue = msg.Where(x => x.Location.City == selectedValue).ToList();
         
         return View("Market", filteredValue);
+    }
+
+    public async Task<IActionResult> GetUser(int id = 0)
+    {
+        var result = await _userService.GetUser(id);
+        var msg = JsonConvert.DeserializeObject<UserFarmsArea>(await result.Content.ReadAsStringAsync());
+        return View("UserView", msg);
+    }
+
+    public async Task<IActionResult> GetFarmPosts(int id)
+    {
+        var result = await _service.GetFarm(id);
+        var msg = JsonConvert.DeserializeObject<Farm>(await result.Content.ReadAsStringAsync());
+        return View("Farmer", msg);
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

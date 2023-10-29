@@ -1,6 +1,6 @@
 ﻿namespace ClientFrontend.Models;
 
-public class User
+public class CreateUser
 {
     public int Id { get; set; }
     public int role { get; set; }

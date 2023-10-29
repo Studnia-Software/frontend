@@ -1,6 +1,9 @@
-﻿namespace ClientFrontend.Interfaces;
+﻿using ClientFrontend.Models;
 
-public interface IUserService
+namespace ClientFrontend.Interfaces;
+
+public interface IUserService 
 {
-    
+    Task<HttpResponseMessage> GetUser(int id);
+    Task<HttpResponseMessage> CreateUser(CreateUser dto);
 }
