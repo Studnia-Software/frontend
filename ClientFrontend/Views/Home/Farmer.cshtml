@@ -9,8 +9,9 @@
         int rand = rnd.Next(1, 5);
         randImg.Add($"/IMG/produkt{rand}.png");
     }
-
+    var helper = new Helper();
     var new_post = new CreatePost();
+    new_post.User_id = helper.Id;
 }
 <head>
 <link rel="stylesheet" href="~/css/farmer.css">

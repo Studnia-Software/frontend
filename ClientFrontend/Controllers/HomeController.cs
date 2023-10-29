@@ -7,6 +7,9 @@ using ClientFrontend.Services;
 using Newtonsoft.Json;
 using System.Linq;
 using ClientFrontend.Exception;
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
+using System.Web;
+using Microsoft.Net.Http.Headers;
 
 namespace ClientFrontend.Controllers;
 
@@ -60,14 +63,16 @@ public class HomeController : Controller
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> CreatePost(CreatePost dto)
     {
+        
         var result = await _postService.CreatePost(dto);
 
         if (!result.IsSuccessStatusCode)
         {
             return RedirectToAction("CreatePost");
         }
-        
-        return RedirectToAction("GetFarmPosts");
+
+        Console.WriteLine(await result.Content.ReadAsStreamAsync());
+        return View("Farmer");
     }
     
     [ValidateAntiForgeryToken]
@@ -86,6 +91,12 @@ public class HomeController : Controller
     public async Task<IActionResult> GetFarmPosts(int id)
     {
         var result = await _service.GetFarm(id);
+
+        var helper = new Helper
+        {
+            Id = id,
+        };
+        
         var msg = JsonConvert.DeserializeObject<Farm>(await result.Content.ReadAsStringAsync());
         return View("Farmer", msg);
     }

@@ -25,6 +25,15 @@
           "buildMultiTargeting/AspNetCoreHero.ToastNotification.props": {}
         }
       },
+      "DotNet.Cookies/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/DotNet.Cookies.dll": {}
+        },
+        "runtime": {
+          "lib/net461/DotNet.Cookies.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -411,6 +420,22 @@
         "staticwebassets/notyf.min.js",
         "staticwebassets/toastify.css",
         "staticwebassets/toastify.js"
+      ]
+    },
+    "DotNet.Cookies/1.0.0": {
+      "sha512": "Cy93z7E7O/POsVN1hDjZZrlE52NJMQsGP+pBqxWsfiDFjR7BU9UGvuVkviIQ7gX+XOsSUcuhi+3jcanhiKr/Gw==",
+      "type": "package",
+      "path": "dotnet.cookies/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnet.cookies.1.0.0.nupkg.sha512",
+        "dotnet.cookies.nuspec",
+        "lib/net45/DotNet.Cookies.dll",
+        "lib/net451/DotNet.Cookies.dll",
+        "lib/net452/DotNet.Cookies.dll",
+        "lib/net46/DotNet.Cookies.dll",
+        "lib/net461/DotNet.Cookies.dll"
       ]
     },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.0": {
@@ -1049,25 +1074,26 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "AspNetCoreHero.ToastNotification >= 1.1.0",
+      "DotNet.Cookies >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.13",
       "Newtonsoft.Json >= 13.0.3",
       "Westwind.AspNetCore.LiveReload >= 0.4.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Filip Kwiek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
+      "projectUniqueName": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
       "projectName": "ClientFrontend",
-      "projectPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\obj\\",
+      "projectPath": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\ClientFrontend.csproj",
+      "packagesPath": "C:\\Users\\Filip Kwiek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Filip Kwiek\\Desktop\\Hakaton\\frontend\\ClientFrontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Filip Kwiek\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1094,6 +1120,10 @@
           "AspNetCoreHero.ToastNotification": {
             "target": "Package",
             "version": "[1.1.0, )"
+          },
+          "DotNet.Cookies": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
             "target": "Package",
@@ -1130,5 +1160,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DotNet.Cookies 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DotNet.Cookies",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
