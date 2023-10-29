@@ -14,18 +14,42 @@ public class HomeController : Controller
     private readonly ILogger<HomeController> _logger;
     private readonly IFarmService _service;
     private readonly IUserService _userService;
-    public HomeController(ILogger<HomeController> logger, IFarmService service, IUserService userService)
+    private readonly IPostService _postService;
+    public HomeController(ILogger<HomeController> logger, IFarmService service, IUserService userService, IPostService postService)
     {
         _logger = logger;
         _service = service;
         _userService = userService;
+        _postService = postService;
     }
 
     public async Task<IActionResult> Index()
     {
+        var modeles = new MultipleModels();
+        
         var result = await _service.GetFarms();
-        Console.WriteLine(await result.Content.ReadAsStringAsync());
-        return View(JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync()));
+        var result1 = await _userService.GetUsers();
+        modeles.Farms = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
+        modeles.Users = JsonConvert.DeserializeObject<List<User>>(await result.Content.ReadAsStringAsync());
+        
+        return View(modeles);
+    }
+
+    public async Task<IActionResult> FarmerIndex()
+    {
+        
+        return View("FarmerIndex");
+    }
+
+    public async Task<IActionResult> Create()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Create(CreatePost dto)
+    {
+        return View(dto);
     }
     
     [HttpPost]
@@ -37,8 +61,32 @@ public class HomeController : Controller
         var msg = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
 
         var filteredValue = msg.Where(x => x.Location.City == selectedValue).ToList();
+
+        for (int i = 0; i < filteredValue.Count - 1; i++)
+        {
+            if (filteredValue[i] == filteredValue[i + 1])
+            {
+                RedirectToAction("Index");
+                break;
+            }
+        }
         
         return View("Market", filteredValue);
+    }
+    
+    [HttpPost]
+    public async Task<IActionResult> GetUserValue()
+    {
+        var selectedValue = Request.Form["userGetter"].ToString();
+        //user -> posts in user's area
+        //farmer -> posts in area + add panel
+
+        if (selectedValue == "1")
+        {
+            return RedirectToAction("Index");
+        }
+       
+        return RedirectToAction("");
     }
 
     public async Task<IActionResult> GetUser(int id = 0)

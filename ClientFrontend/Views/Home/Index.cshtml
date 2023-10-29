@@ -1,8 +1,11 @@
-﻿@model List<Farm>
+﻿@model MultipleModels
 
 
 @{
     ViewData["Title"] = "Home Page";
+    Random rnd = new Random();
+    int rand = rnd.Next(1, 5);
+    string randImg = $"~/IMG/produkt{rand}.png";
 }
 
 @functions
@@ -11,7 +14,7 @@
     {
         var cities = new List<string>();
 
-        foreach (var farm in @Model)
+        foreach (var farm in @Model.Farms)
         {
             var city = farm.Location.City;
             cities.Add(city);
@@ -29,6 +32,26 @@
         }
         return itemList;
     }
+
+    public List<int> GetuserRoles()
+    {
+        var roles = new List<int>();
+        foreach (var user in Model.Users)
+        {
+            roles.Add(user.role);
+        }
+        return roles;
+    }
+
+    public List<SelectListItem> UserDropdownList(List<int> roles)
+    {
+        var itemList = new List<SelectListItem>();
+        foreach (var role in roles)
+        {
+            itemList.Add(new SelectListItem($"{role}", $"{role}"));
+        }
+        return itemList;
+    }
     
     string hyphen = "-";
 }
@@ -39,7 +62,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-
+@using(Html.BeginForm("GetUserValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+       
+            @Html.DropDownList("UserGetter", DropDownItems(GetDiffrentCities()), "Wybierz rolę")
+            <input type="submit" value="Submit" />
+        
+    }
 <div class="element_produktu">
     <div class="search_bar">
     @using(Html.BeginForm("GetSelectedValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "farm_filter" }))
@@ -59,7 +88,7 @@
     </div>
     <div class="marketplace">
         <ul class="forms_marketplace">
-            @foreach(var farmer in Model.Take(8))
+            @foreach(var farmer in Model.Farms.Take(8))
             {
                 <a asp-area="" asp-controller="Home" asp-action="GetFarmPosts" asp-route-id="@farmer.Id"><li>
                     <div class="zdjecie_farmy">
