@@ -9,6 +9,8 @@
         int rand = rnd.Next(1, 5);
         randImg.Add($"/IMG/produkt{rand}.png");
     }
+
+    var new_post = new CreatePost();
 }
 <head>
 <link rel="stylesheet" href="~/css/farmer.css">
@@ -36,20 +38,24 @@
 
   <div id="modal" class="modal">
     <div class="modal-content">
-      <span class="close" id="closeModalBtn">&times;</span>
-      <form>
-        <h2>Dodaj produkt</h2>
+        <span class="close" id="closeModalBtn">&times;</span>
+      <form method="post" onsubmit="location.href=@Url.Action("CreateOrder", "Home", new_post)">
+          <h2>Dodaj produkt</h2>
         <div class="form-group">
           <label for="name">Tytuł:</label>
-          <input type="text" id="name" name="name" placeholder="Tytuł">
+          <input type="text" id="name" name="name" placeholder="Tytuł" asp-for="@new_post.Title">
         </div>
           <div class="form-group">
               <label for="Nazwa">Nazwa</label>
-              <input type="text" id="email" name="Nazwa">
+              <input type="text" id="nazwa" name="Nazwa" asp-for="@new_post.Product_Name">
           </div>
+          <div class="form-group">
+              <label for="Nazwa">Opis produktu</label>
+              <input type="text" id="opis_produktu" name="opis_produktu" asp-for="@new_post.Product_Description">
+          </div>          
                   <div class="form-group">
                     <label for="Nazwa">Cena</label>
-                    <input type="number" id="email" name="Cena">
+                    <input type="number" id="cena" name="Cena" asp-for="@new_post.Amount">
                   </div>
         <input type="submit" value="Submit">
       </form>

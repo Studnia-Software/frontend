@@ -36,6 +36,26 @@
         }
         return itemList;
     }
+
+    // public List<int> GetuserR()
+    // {
+    //     var roles = new List<int>();
+    //     foreach (var user in Model.Users)
+    //     {
+    //         roles.Add(user.role);
+    //     }
+    //     return roles;
+    // }
+    //
+    // public List<SelectListItem> UserDropdownList(List<User> users)
+    // {
+    //     var itemList = new List<SelectListItem>();
+    //     foreach (var user in users)
+    //     {
+    //         itemList.Add(new SelectListItem($"{user.Id}", $"{user.Id}"));
+    //     }
+    //     return itemList;
+    // }
     
     string hyphen = "-";
 }
@@ -46,6 +66,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+@* @using(Html.BeginForm("GetUserValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data" })) *@
+@*     { *@
+@*         *@
+@*             @Html.DropDownList("UserGetter", UserDropdownList(Model.), "Wybierz użytkownika") *@
+@*             <input type="submit" value="Submit" /> *@
+@*          *@
+@*     } *@
 <div class="element_produktu">
     <div class="search_bar">
     @using(Html.BeginForm("GetSelectedValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "farm_filter" }))
@@ -70,7 +97,6 @@
                 <a asp-area="" asp-controller="Home" asp-action="GetFarmPosts" asp-route-id="@farmer.Id"><li>
                     <div class="zdjecie_farmy">
                         <img src="@randImg[@farmer.Id]">
-                        <img src="@randImg">
                     </div>
                     <div class="nazwa_farmy">
                         <p>@farmer.Name</p></div>
