@@ -59,20 +59,25 @@ public class HomeController : Controller
         
         return View("Market", filteredValue);
     }
-    
-    [ValidateAntiForgeryToken]
-    public async Task<IActionResult> CreatePost(CreatePost dto)
+
+    public async Task<IActionResult> CreatePost()
     {
-        
+        return View();
+    }
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> CreatePost([FromRoute]int id,CreatePost dto)
+    {
+        dto.Farm_id = id;
         var result = await _postService.CreatePost(dto);
 
         if (!result.IsSuccessStatusCode)
         {
-            return RedirectToAction("CreatePost");
+            return BadRequest();
         }
 
         Console.WriteLine(await result.Content.ReadAsStreamAsync());
-        return View("Farmer");
+        return Created();
     }
     
     [ValidateAntiForgeryToken]

@@ -14,7 +14,7 @@ public class PostService : IPostService
     {
         var client = _ClientFactory.CreateClient("WarzywaClient");
         var rnd = new Random();
-        var result = await client.PostAsJsonAsync<CreatePost>(client.BaseAddress + $"api/store", dto);
+        var result = await client.PostAsJsonAsync<CreatePost>(client.BaseAddress + $"api/store/", dto);
         return result;
     }
 }

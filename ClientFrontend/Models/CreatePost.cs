@@ -2,7 +2,7 @@
 
 public class CreatePost
 {
-    public int User_id { get; set; }
+    public int Farm_id { get; set; }
     public string Title { get; set; }
     public string Product_Name { get; set; }
     public string Product_Description { get; set; }
