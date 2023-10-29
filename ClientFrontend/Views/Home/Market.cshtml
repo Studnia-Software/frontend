@@ -66,13 +66,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-@using(Html.BeginForm("GetUserValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
-    {
-       
-            @Html.DropDownList("UserGetter", DropDownItems(GetDiffrentCities()), "Wybierz rolę")
-            <input type="submit" value="Submit" />
-        
-    }
+
 <div class="element_produktu">
     <div class="search_bar">
     @using(Html.BeginForm("GetSelectedValue", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "farm_filter" }))
