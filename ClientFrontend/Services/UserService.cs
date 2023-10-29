@@ -12,6 +12,13 @@ public class UserService : IUserService
         _clientFactory = clientFactory;
     }
 
+    public async Task<HttpResponseMessage> GetUsers()
+    {
+        var client = _clientFactory.CreateClient("WarzywaClient");
+        var response = await client.GetAsync(client.BaseAddress + "");
+        return response;
+    }
+
     public async Task<HttpResponseMessage> GetUser(int id)
     {
         var client = _clientFactory.CreateClient("WarzywaClient");

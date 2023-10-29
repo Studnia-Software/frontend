@@ -2,8 +2,9 @@
 
 namespace ClientFrontend.Interfaces;
 
-public interface IUserService 
+public interface IUserService
 {
+    Task<HttpResponseMessage> GetUsers();
     Task<HttpResponseMessage> GetUser(int id);
     Task<HttpResponseMessage> CreateUser(CreateUser dto);
 }
