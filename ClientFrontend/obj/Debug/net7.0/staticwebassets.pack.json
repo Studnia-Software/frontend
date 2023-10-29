@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\IMG\\produkt5.png"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\IMG\\useer.png",
+      "PackagePath": "staticwebassets\\IMG\\useer.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive - WK sp. z o.o\\Pulpit\\test\\Hackaton\\frontend\\ClientFrontend\\wwwroot\\css\\.DS_Store",
       "PackagePath": "staticwebassets\\css\\.DS_Store"
     },
