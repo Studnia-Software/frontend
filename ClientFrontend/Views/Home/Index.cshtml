@@ -90,7 +90,7 @@
         <ul class="forms_marketplace">
             @foreach(var farmer in Model.Farms.Take(8))
             {
-                <li>
+                <a asp-area="" asp-controller="Home" asp-action="GetFarmPosts" asp-route-id="@farmer.Id"><li>
                     <div class="zdjecie_farmy">
                         <img src="~/IMG/produkt1.png">
                     </div>
@@ -110,6 +110,7 @@
                     </div>
             
                 </li>
+                    </a>
             }
         </ul>
     </div>

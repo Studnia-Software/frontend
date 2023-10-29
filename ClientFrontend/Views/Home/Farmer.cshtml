@@ -3,16 +3,26 @@
 @{
     Layout = "_Layout";
 }
-
-<!DOCTYPE html>
-
-<html>
 <head>
-    <title>title</title>
+<link rel="stylesheet" href="~/css/farmer.css">
 </head>
 <body>
-<div>
-      
+<div class="main_farmer">
+    <img src="~/IMG/produkt1.png"/>
+    <p class="nazwa">@Model.Name</p>
+        <div class="delivery_time"><img src="~/IMG/czas.png"> <p>@Model.Delivery_Time</p></div>
+    <div class="delivery_days"><img src="~/IMG/dostawa.png"><p>@Model.Delivery_Days</p></div>
+
+    <ul class="posty">
+        @foreach(var posty in Model.Posts)
+        {
+            <li>
+                <img src="~/IMG/produkt1.png">
+                <p class="tytul">@posty.Title</p>
+                <p class="produkt">@posty.Product.Name</p>
+                <p class="cena">@posty.Price.Amount</p>
+            </li>
+        }
+    </ul>
 </div>
 </body>
-</html>
