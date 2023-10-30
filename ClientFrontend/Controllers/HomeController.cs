@@ -42,6 +42,7 @@ public class HomeController : Controller
         var selectedValue = Request.Form["FarmFilter"].ToString(); //this will get selected value
 
         var result = await _service.GetFarms();
+        var dto = new MultipleModels();
         var msg = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
 
         var filteredValue = msg.Where(x => x.Location.City == selectedValue).ToList();
@@ -54,8 +55,9 @@ public class HomeController : Controller
                 break;
             }
         }
-        
-        return View("Market", filteredValue);
+
+        dto.Farms = filteredValue;
+        return View("Market", dto);
     }
     
     [HttpPost]
