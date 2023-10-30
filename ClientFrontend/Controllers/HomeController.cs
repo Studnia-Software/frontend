@@ -82,7 +82,7 @@ public class HomeController : Controller
         }
 
         Console.WriteLine(await result.Content.ReadAsStreamAsync());
-        return Redirect($"http://localhost:8080/GetFarmPosts/{farmid}");
+        return RedirectToAction("GetFarmPosts", new {id = farmid});
     }
     
     [ValidateAntiForgeryToken]
@@ -98,7 +98,7 @@ public class HomeController : Controller
         return RedirectToAction("CreateOrder");
     }
     
-    public async Task<IActionResult> GetFarmPosts(int id)
+    public async Task<IActionResult> GetFarmPosts([FromRoute]int id)
     {
         var result = await _service.GetFarm(id);
         
