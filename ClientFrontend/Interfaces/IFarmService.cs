@@ -1,5 +1,5 @@
 ﻿using System.Net;
-using APIClient.Models;
+using ClientFrontend.Models;
 
 namespace ClientFrontend.Interfaces;
 

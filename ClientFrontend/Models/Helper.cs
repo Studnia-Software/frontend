@@ -1,7 +1,6 @@
 ﻿namespace ClientFrontend.Models;
 
-public class Product
+public class Helper
 {
     public int Id { get; set; }
-    public string Name { get; set; }
 }

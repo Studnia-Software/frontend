@@ -1,4 +1,4 @@
-@model APIClient.Models.Farm
+@model Farm
 
 @{
     Layout = "_Layout";
@@ -42,29 +42,21 @@
       <form asp-route-dto="@new_post" method="post" asp-area="" asp-controller="Home" asp-action="CreatePost">
           <h2>Dodaj produkt</h2>
           <div class="form-group">
-                        <label for="farmid">Id Farmy</label>
-                        <input type="text" id="farmid" name="farmid" placeholder="farmid" asp-for="@Model.Id">
-                    </div>
-          <div class="form-group">
               <label for="name">Tytuł:</label>
-              <input type="text" id="name" name="name" placeholder="name" asp-for="@new_post.Title">
+              <input type="text" id="name" name="name" placeholder="Tytuł" asp-for="@new_post.Title">
           </div>
           <div class="form-group">
-              <label for="nazwa">Nazwa</label>
+              <label for="Nazwa">Nazwa</label>
               <input type="text" id="nazwa" name="Nazwa" asp-for="@new_post.Product_Name">
           </div>
           <div class="form-group">
-              <label for="opis_produktu">Opis produktu</label>
-              <input type="text" id="opis_produktu" name="Opis_produktu" asp-for="@new_post.Product_Description">
+              <label for="Nazwa">Opis produktu</label>
+              <input type="text" id="opis_produktu" name="opis_produktu" asp-for="@new_post.Product_Description">
           </div>
           <div class="form-group">
-              <label for="cena">Cena</label>
+              <label for="Nazwa">Cena</label>
               <input type="number" id="cena" name="Cena" asp-for="@new_post.Amount">
           </div>
-          <div class="form-group">
-                        <label for="cena1">Cena1</label>
-                        <input type="number" id="cena1" name="Cena1" asp-for="@new_post.Quantity">
-                    </div>
           <input type="submit" value="Submit">
       </form>
   </div>

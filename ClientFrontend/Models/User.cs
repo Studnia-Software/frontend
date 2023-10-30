@@ -1,4 +1,4 @@
-﻿namespace APIClient.Models;
+﻿namespace ClientFrontend.Models;
 
 public class User
 {

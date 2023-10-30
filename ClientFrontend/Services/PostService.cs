@@ -1,8 +1,6 @@
 ﻿using System.Runtime.InteropServices.JavaScript;
-using System.Text;
 using ClientFrontend.Interfaces;
-using APIClient.Models;
-using Newtonsoft.Json;
+using ClientFrontend.Models;
 
 namespace ClientFrontend.Services;
 
@@ -17,13 +15,8 @@ public class PostService : IPostService
    
     public async Task<HttpResponseMessage> CreatePost(CreatePost dto)
     {
-        var serializedString = JsonConvert.SerializeObject(dto);
-        Console.WriteLine(serializedString);
-        var client = _ClientFactory.CreateClient("WarzywaClient");
-        HttpRequestMessage msg = new(HttpMethod.Post, client.BaseAddress + "api/store/");
-        msg.Content = new StringContent(serializedString, Encoding.UTF8, "application/json");
-
-        var responseStr = await client.SendAsync(msg);
-        return responseStr;
+        var client = _ClientFactory.CreateClient("WarzywaClient"); 
+        var result = await client.PostAsJsonAsync(client.BaseAddress + "api/store/", dto);
+        return result;
     }
 }

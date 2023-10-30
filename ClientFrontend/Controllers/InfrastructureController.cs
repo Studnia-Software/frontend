@@ -1,6 +1,6 @@
 ﻿using AspNetCoreHero.ToastNotification.Abstractions;
 using ClientFrontend.Interfaces;
-using APIClient.Models;
+using ClientFrontend.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
