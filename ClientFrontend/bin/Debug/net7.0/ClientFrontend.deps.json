@@ -35,6 +35,7 @@
     ".NETCoreApp,Version=v7.0": {
       "ClientFrontend/1.0.0": {
         "dependencies": {
+          "APIClient": "1.0.0",
           "AspNetCoreHero.ToastNotification": "1.1.0",
           "DotNet.Cookies": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "7.0.13",
@@ -602,6 +603,14 @@
         },
         "compile": {
           "lib/net7.0/Westwind.AspNetCore.LiveReload.dll": {}
+        }
+      },
+      "APIClient/1.0.0": {
+        "runtime": {
+          "APIClient.dll": {}
+        },
+        "compile": {
+          "APIClient.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/7.0.0.0": {
@@ -2534,6 +2543,11 @@
       "sha512": "sha512-4XxEwqxeOLDTnDlEmBYu7jfepHbr0wINgROGI5qnWvxx5gZcawphba7t2mswJLZ/XMQwtxEfJ/SRI+d/BSzETg==",
       "path": "westwind.aspnetcore.livereload/0.4.2",
       "hashPath": "westwind.aspnetcore.livereload.0.4.2.nupkg.sha512"
+    },
+    "APIClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/7.0.0.0": {
       "type": "referenceassembly",

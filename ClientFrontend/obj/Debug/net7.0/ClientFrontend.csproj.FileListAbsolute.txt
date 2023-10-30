@@ -732,3 +732,5 @@ C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\re
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\ClientFrontend.pdb
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\ClientFrontend.genruntimeconfig.cache
 C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\obj\Debug\net7.0\ref\ClientFrontend.dll
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\APIClient.dll
+C:\Users\Filip Kwiek\Desktop\Hakaton\frontend\ClientFrontend\bin\Debug\net7.0\APIClient.pdb

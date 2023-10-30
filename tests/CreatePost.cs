@@ -1,6 +1,6 @@
-﻿namespace APIClient.Models;
+﻿namespace tests;
 
-public class CreatePost
+public class CreatePost1
 {
     public int Farm_id { get; set; }
     public string Title { get; set; }
