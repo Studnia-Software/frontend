@@ -199,16 +199,16 @@ a, a:hover {
 .site-navbar .site-navigation .site-menu .has-children > a span {
   position: relative;
   padding-right: 30px; }
-.site-navbar .site-navigation .site-menu .has-children > a span:before {
-  position: absolute;
-  content: "\e313";
-  font-size: 16px;
-  top: 50%;
-  right: 10px;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  font-family: 'icomoon'; }
+/*.site-navbar .site-navigation .site-menu .has-children > a span:before {*/
+/*  position: absolute;*/
+/*  content: "\e313";*/
+/*  font-size: 16px;*/
+/*  top: 50%;*/
+/*  right: 10px;*/
+/*  -webkit-transform: translateY(-50%);*/
+/*  -ms-transform: translateY(-50%);*/
+/*  transform: translateY(-50%);*/
+/*  font-family: 'icomoon'; }*/
 .site-navbar .site-navigation .site-menu .has-children .dropdown {
   visibility: hidden;
   opacity: 0;
