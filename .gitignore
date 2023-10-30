@@ -449,3 +449,7 @@ FodyWeavers.xsd
 
 ./bin/*
 ./obj/*
+
+ClientFrontend/bin/
+
+ClientFrontend/obj/
