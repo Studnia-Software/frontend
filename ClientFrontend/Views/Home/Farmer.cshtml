@@ -28,8 +28,8 @@
                 <img src="@randImg[@posty.Id+1]">
                 <p class="tytul">@posty.Title</p>
                 <p class="produkt">@posty.Product.Name</p>
-                <p class="cena">@posty.Price.Amount</p>
-                <input type="number" min="0" max="@posty.Price.Quantity"/>
+                <p class="cena">@rnd.Next(8,30) zł</p>
+                <input type="number" placeholder="" min="0" max="@posty.Price.Quantity"/>
             </li>
         }
     </ul>
@@ -39,11 +39,11 @@
   <div id="modal" class="modal">
   <div class="modal-content">
       <span class="close" id="closeModalBtn">&times;</span>
-      <form method="post" asp-area="" asp-controller="Home" asp-action="CreatePost" asp-route-dto="@new_post">
+      <form asp-route-dto="@new_post" method="post" asp-area="" asp-controller="Home" asp-action="CreatePost">
           <h2>Dodaj produkt</h2>
           <div class="form-group">
               <label for="name">Tytuł:</label>
-              <input type="text" id="name" name="name" placeholder="Tytuł" asp-for="@new_post.Title">
+              <input type="text" id="name" name="name" asp-for="@new_post.Title">
           </div>
           <div class="form-group">
               <label for="Nazwa">Nazwa</label>
