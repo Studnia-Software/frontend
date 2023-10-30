@@ -1,5 +1,5 @@
 ﻿using ClientFrontend.Interfaces;
-using ClientFrontend.Models;
+using APIClient.Models;
 
 namespace ClientFrontend.Services;
 
@@ -22,7 +22,7 @@ public class UserService : IUserService
     public async Task<HttpResponseMessage> GetUser(int id)
     {
         var client = _clientFactory.CreateClient("WarzywaClient");
-        var response = await client.GetAsync(client.BaseAddress + $"api/get-user/{id}");
+        var response = await client.GetAsync(client.BaseAddress + $"api/get-farms-user-area/{id}");
         return response;
     }
 

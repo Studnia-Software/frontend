@@ -1,4 +1,4 @@
-﻿using ClientFrontend.Models;
+﻿using APIClient.Models;
 
 namespace ClientFrontend.Interfaces;
 
