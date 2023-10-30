@@ -2,7 +2,7 @@
 using System.Net;
 using ClientFrontend.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using ClientFrontend.Models;
+using APIClient.Models;
 using ClientFrontend.Services;
 using Newtonsoft.Json;
 using System.Linq;
@@ -32,13 +32,11 @@ public class HomeController : Controller
     public async Task<IActionResult> Index()
     {
         var result = await _service.GetFarms();
-        var result1 = await _userService.GetUsers();
         var farms = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
         
         return View(farms);
     }
     
-    [HttpPost]
     public async Task<IActionResult> GetSelectedValue()
     {
         var selectedValue = Request.Form["FarmFilter"].ToString(); //this will get selected value
@@ -47,7 +45,7 @@ public class HomeController : Controller
         var msg = JsonConvert.DeserializeObject<List<Farm>>(await result.Content.ReadAsStringAsync());
 
         var filteredValue = msg.Where(x => x.Location.City == selectedValue).ToList();
-
+        
         for (int i = 0; i < filteredValue.Count - 1; i++)
         {
             if (filteredValue[i] == filteredValue[i + 1])
@@ -62,18 +60,29 @@ public class HomeController : Controller
     
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> CreatePost([FromRoute]int id,CreatePost dto)
+    public async Task<IActionResult> CreatePost(int farmid, string name, string nazwa, string opis_produktu, float cena, float cena1)
     {
-        dto.Farm_id = id;
+        var dto = new CreatePost()
+        {
+            Farm_id = farmid,
+            Title = nazwa,
+            Product_Name = name,
+            Product_Description = opis_produktu,
+            Amount = cena,
+            Quantity = cena1,
+            Per_kg = true
+        };
+        Console.WriteLine(JsonConvert.SerializeObject(dto));
         var result = await _postService.CreatePost(dto);
 
         if (!result.IsSuccessStatusCode)
         {
-            return BadRequest();
+            Console.WriteLine(JsonConvert.SerializeObject(dto));
+            return View("Error");
         }
 
         Console.WriteLine(await result.Content.ReadAsStreamAsync());
-        return RedirectToAction("Index");
+        return RedirectToAction("GetFarmPosts", new {id = farmid});
     }
     
     [ValidateAntiForgeryToken]
@@ -83,20 +92,15 @@ public class HomeController : Controller
 
         if (!result.IsSuccessStatusCode)
         {
-            return RedirectToAction("CreateOrder");
+            return View("Error");
         }
-        Console.WriteLine(await result.Content.ReadAsStringAsync());
-        return RedirectToAction("GetFarmPosts");
+        Console.WriteLine(dto.ToString());
+        return RedirectToAction("CreateOrder");
     }
     
-    public async Task<IActionResult> GetFarmPosts(int id)
+    public async Task<IActionResult> GetFarmPosts([FromRoute]int id)
     {
         var result = await _service.GetFarm(id);
-
-        var helper = new Helper
-        {
-            Id = id,
-        };
         
         var msg = JsonConvert.DeserializeObject<Farm>(await result.Content.ReadAsStringAsync());
         return View("Farmer", msg);

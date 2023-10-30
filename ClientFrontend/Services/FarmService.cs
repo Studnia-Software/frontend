@@ -1,5 +1,5 @@
 ﻿using ClientFrontend.Interfaces;
-using ClientFrontend.Models;
+using APIClient.Models;
 
 namespace ClientFrontend.Services;
 

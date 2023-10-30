@@ -1,4 +1,4 @@
-namespace ClientFrontend.Models;
+namespace APIClient.Models;
 
 public class ErrorViewModel
 {
