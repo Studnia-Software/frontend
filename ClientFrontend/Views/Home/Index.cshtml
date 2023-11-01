@@ -67,7 +67,7 @@
         <ul class="forms_marketplace">
             @foreach(var farmer in Model.Take(8))
             {
-                <a asp-area="" asp-controller="Home" asp-action="GetFarmPosts" ><li>
+                <a asp-area="" asp-controller="Home" asp-action="GetFarmPosts" asp-route-id=@farmer.Id><li>
                     <div class="zdjecie_farmy">
                         <img src="@randImg[@farmer.Id]">
                     </div>
